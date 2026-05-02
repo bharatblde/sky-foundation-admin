@@ -124,7 +124,6 @@ frontend/admin.html
 * Deployment (AWS / Render / Railway)
 
 ---
-
 ## 📸 Screenshots
 
 ### 🔐 Signup API
@@ -134,19 +133,19 @@ frontend/admin.html
 ![Login](assets/login.png)
 
 ### 🔐 Forgot Password API
-![Forgot](assets/forgot.png)
+![Forgot](assets/Forgot.png)
 
 ### ➕ Create Opportunity (POST)
-![Create](assets/create.png)
+![Create](assets/created.png)
 
 ### 📥 Get Opportunities (GET)
-![Get](assets/get.png)
+![Get](assets/Get.png)
 
 ### ✏️ Update Opportunity (PUT)
-![Update](assets/update.png)
+![Update](assets/Update.png)
 
 ### ❌ Delete Opportunity (DELETE)
-![Delete](assets/delete.png)
+![Delete](assets/Delete.png)
 
 ---
 
